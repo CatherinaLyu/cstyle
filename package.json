@@ -1,0 +1,22 @@
+{
+  "name": "stylecss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CatherinaLyu/cstyle.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Catherina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CatherinaLyu/cstyle/issues"
+  },
+  "homepage": "https://github.com/CatherinaLyu/cstyle#readme",
+  "description": ""
+}
