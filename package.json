@@ -18,5 +18,8 @@
     "url": "https://github.com/CatherinaLyu/cstyle/issues"
   },
   "homepage": "https://github.com/CatherinaLyu/cstyle#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "webpack": "^4.10.2"
+  }
 }
