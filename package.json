@@ -20,6 +20,8 @@
   "homepage": "https://github.com/CatherinaLyu/cstyle#readme",
   "description": "",
   "devDependencies": {
-    "webpack": "^4.10.2"
+    "eslint": "^4.19.1",
+    "webpack": "^4.10.2",
+    "webpack-dev-server": "^3.1.4"
   }
 }
