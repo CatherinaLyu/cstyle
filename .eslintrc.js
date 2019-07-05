@@ -4,8 +4,6 @@ module.exports = {
     node: true,
   },
   plugins: [
-    plugin1,
-    'eslint-plugin-plugin2'
   ],
   parserOptions: {
     ecmaVersion: 6,
